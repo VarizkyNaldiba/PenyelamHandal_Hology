@@ -1,0 +1,1 @@
+# setiap berhasil ngetrain + test, buat folder sendiri lalu masukkan model, csv, ke folder itu

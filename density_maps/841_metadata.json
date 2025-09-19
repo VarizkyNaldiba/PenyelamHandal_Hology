@@ -1,0 +1,10 @@
+{
+  "original_image": "841.jpg",
+  "point_count": 41,
+  "density_sum": 36.48400115966797,
+  "image_size": [
+    224,
+    224
+  ],
+  "sigma": 4
+}
