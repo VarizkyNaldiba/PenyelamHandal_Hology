@@ -1,6 +1,9 @@
 # Penyelam Handal - Hology 8.0 2025 Data Mining
 
 ## Hasil Perlombaan
+#### Link Leaderboard
+https://www.kaggle.com/competitions/penyisihan-hology-8-0-2025-data-mining/leaderboard
+
 ![alt text](image.png)
 ## Deskripsi Proyek
 Repository ini berisi solusi untuk kompetisi **Hology 8.0 2025 Data Mining** yang berfokus pada **crowd counting** (penghitungan kerumunan) menggunakan deep learning. Kami mengimplementasikan model CSRNet (Crowd Scene Recognition Network) untuk menghitung jumlah orang dalam gambar secara otomatis.
