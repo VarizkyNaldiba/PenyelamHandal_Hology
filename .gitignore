@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Model weights and large files (optional - comment out if you want to track them)
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.pb
+
+# Dataset (uncomment if you don't want to track datasets)
+# *.csv
+# *.json
+# *.jpg
+# *.jpeg
+# *.png
+
+# Density maps (large numpy arrays)
+density_maps/*.npy
+
+# Training outputs
+*.log
+runs/
+logs/
+tensorboard/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Results and submissions (optional - comment out if you want to track them)
+test_predictions.csv
+detailed_test_predictions.csv
+final_evaluation_results.json
+
+# Large data directories (uncomment if needed)
+# penyisihan-hology-8-0-2025-data-mining/train/images/
+# penyisihan-hology-8-0-2025-data-mining/test/images/
